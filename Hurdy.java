@@ -17,7 +17,7 @@ public class Hurdy
 		 {
 		   for(int c=0; c<tri.length; c++)
 		   { 
-		     System.out.println(" " +tri[r][c]);
+		     System.out.println(" "+tri[r][c]);
 			}
 		  System.out.println("");
 		 }
